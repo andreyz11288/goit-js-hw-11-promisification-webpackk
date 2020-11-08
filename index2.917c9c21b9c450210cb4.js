@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{"5dik":function(e,n){const a=[{name:"Mango",active:!0},{name:"Poly",active:!1},{name:"Ajax",active:!0},{name:"Lux",active:!1}],o=(e,n,a)=>{const o=e.map(e=>e.name===n?{...e,active:!e.active}:e);return new Promise(e=>{e(o)})},t=e=>console.table(e);o(a,"Mango").then(t),o(a,"Lux").then(t)}},[["5dik",0]]]);
+//# sourceMappingURL=index2.917c9c21b9c450210cb4.js.map

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{HerA:function(e,n){const o=e=>{const n=e;return new Promise(e=>{setTimeout(()=>{e("✅ "+n)},n)})},s=e=>console.log(`Resolved after ${e}ms`);o(2e3).then(s),o(1e3).then(s),o(1500).then(s)}},[["HerA",0]]]);
+//# sourceMappingURL=index1.e8ca5d8327979219ef9e.js.map
